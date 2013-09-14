@@ -26,7 +26,14 @@ msgstr "多くの専門家たちは，彼らの期待に合わせるための管
 #. Tag: para
 #, no-c-format
 msgid "At the same time, many influential actors in the computing industry have now come to understand the strategic interest of using an elaborate distribution that is not managed by a commercial entity. Some of their customers also understand — following the same logic — that a software platform that does not depend on agreements between suppliers reduces the constraints they will have after the purchase."
-msgstr ""
+msgstr "同じ時間で，
+IT業界にいる多くの実力のある人たちは
+
+念入りなディストリビューションを
+使い方の戦略的な面白さを理解するに至る今を持っています．
+have now come to understand the strategic interest of using an elaborate distribution that is not managed by a commercial entity.
+
+ Some of their customers also understand — following the same logic — that a software platform that does not depend on agreements between suppliers reduces the constraints they will have after the purchase."
 
 #. Tag: para
 #, no-c-format
