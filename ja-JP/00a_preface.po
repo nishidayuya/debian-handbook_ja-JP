@@ -31,7 +31,7 @@ msgstr "同じとき，IT業界にいる多くの有名人たちは，商業法�
 #. Tag: para
 #, no-c-format
 msgid "Finally, many beginners discover Debian through the Knoppix and Ubuntu projects, while others “look under the hood” because they want to avoid empiricism."
-msgstr ""
+msgstr "最後に，多くの初心者は経験主義を避けたいために他の者が“フードの下を見ている”間，KnoppixやUbuntuプロジェクトを通してDebianを見つけています．"
 
 #. Tag: para
 #, no-c-format
