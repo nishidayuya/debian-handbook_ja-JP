@@ -36,7 +36,8 @@ msgstr "最後に，多くの初心者は経験主義を避けたいために他
 #. Tag: para
 #, no-c-format
 msgid "Debian — which used to be low-profile — was first adopted by passionate users, who were often attracted by the spirit it embodies. They found a project with clear goals and visible achievements, whose developers focus on creating a good design <emphasis>before</emphasis> building — thereby rejecting the deadlines that often compromise the quality of so many other software projects. Debian is led by its very actors. In other words, Debian users join a project that fully benefits from the advantages of free software… so as to produce free software themselves."
-msgstr "- 目立たなかった- Debianはまず，その具体化する精神に引き寄せられる情熱的な利用者によって採用されました．"
+msgstr "- 目立たなかった- Debianはまず，その具体化する精神に引き寄せられる情熱的な利用者によって採用されました．彼らはプロジェクトの明らかなゴールと目に見える功績を探しました．その開発者は作る<emphasis>前に</emphasis>よい設計を作成することに取り組み，それによって多くの他のソフトウェアプロジェクトの品質を妥協する期限を拒否しています．
+"
 
 #. Tag: para
 #, no-c-format
