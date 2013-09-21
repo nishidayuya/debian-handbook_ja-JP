@@ -41,7 +41,7 @@ msgstr "- 目立たなかった- Debianはまず，その具体化する精神�
 #. Tag: para
 #, no-c-format
 msgid "The <citetitle>Debian Administrator's Handbook</citetitle> will guide you on your way to autonomy. It could only be written by authors who master both the technical aspects and the inner workings of the Debian project, and who know the needs of seasoned professionals as well as enthusiasts. Raphaël Hertzog and Roland Mas had the required qualities and managed to create and update this book. I thank them very much for their work and have no doubt that reading this book will be both helpful and pleasant."
-msgstr ""
+msgstr "<citetitle>Debian管理者ハンドブック</citetitle>は，あなたが自立するように案内します．それは技術的な局面とDebianプロジェクトの内部運営の両方をマスターした著者らによってのみ書かれることができるかもしれません．そして狂信者はもちろん訓練を詰んだプロフェッショナルの要望も知っています．Raphaël HertzogとRoland Masが要求品質の保持とこの本の作成と更新を管理しています．わたしは彼らの作業にとても感謝していて，この本を読むことは役に立つし楽しくなることに疑いがありません．"
 
 #. Tag: para
 #, no-c-format
