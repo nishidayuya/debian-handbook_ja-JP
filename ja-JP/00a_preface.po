@@ -46,5 +46,5 @@ msgstr "<citetitle>Debian管理者ハンドブック</citetitle>は，あなた�
 #. Tag: para
 #, no-c-format
 msgid "Nat Makarevitch (PGP/GPG fingerprint: <literal>2010 4A02 9C0E 7D1F 5631 ADF0 453C 4549 0230 D602</literal>)"
-msgstr ""
+msgstr "Nat Makarevitch (PGP/GPG fingerprint: <literal>2010 4A02 9C0E 7D1F 5631 ADF0 453C 4549 0230 D602</literal>)"
 
