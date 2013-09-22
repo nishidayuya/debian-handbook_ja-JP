@@ -16,7 +16,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Foreword"
-msgstr ""
+msgstr "はじめに"
 
 #. Tag: para
 #, no-c-format
