@@ -54,7 +54,7 @@ msgstr "厳密に言って，Linuxはカーネルのみのことで，ハード�
 #. Tag: para
 #, no-c-format
 msgid "A “Linux distribution” is a full operating system; it usually includes the Linux kernel, an installer program, and most importantly applications and other software required to turn a computer into an actually useful tool."
-msgstr ""
+msgstr "“Linuxディストリビューション”とは完全なオペレーティングシステムのことで，通常はLinuxカーネルとインストーラプログラム，重要なアプリケーション，その他コンピュータを便利なツールにするために必要なソフトウェアを含んでいます．"
 
 #. Tag: para
 #, no-c-format
