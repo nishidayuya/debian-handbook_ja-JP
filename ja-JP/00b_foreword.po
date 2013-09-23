@@ -29,7 +29,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>BACK TO BASICS</emphasis> Linux distribution, Linux kernel"
-msgstr ""
+msgstr "<emphasis>基本的な考え方</emphasis> Linuxディストリビューション，Linuxカーネル"
 
 #. Tag: indexterm
 #, no-c-format
