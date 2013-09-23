@@ -23,8 +23,8 @@ msgstr "はじめに"
 msgid "Linux has been garnering strength for the last few years, and its growing popularity drives more and more users to make the jump. The first step on that path is to pick a distribution. This is an important decision, because each distribution has its own peculiarities, and future migration costs can be avoided if the right choice is made from the start."
 msgstr ""
 "Linuxは過去数年の間力を蓄え続け，そしてその増大する人気はますますユーザを動きまわらせることを決定づけています．"
-"The first step on that path is to pick a distribution.
-"This is an important decision, because each distribution has its own peculiarities, and future migration costs can be avoided if the right choice is made from the start."
+"その道の最初のステップはディストリビューションを選択することです．"
+"これは重要な決定で，なぜならば各ディストリビューションはそれぞれ特色を持っていて，もしもよい選択が最初にできていたら将来の移行コストを避けることができるからです．"
 
 #. Tag: title
 #, no-c-format
