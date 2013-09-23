@@ -49,7 +49,7 @@ msgstr "<primary>ディストリビューション</primary><secondary>Linuxデ�
 #. Tag: para
 #, no-c-format
 msgid "Strictly speaking, Linux is only a kernel, the core piece of software sitting between the hardware and the applications."
-msgstr ""
+msgstr "厳密に言って，Linuxはカーネルのみのことで，ハードウェアとアプリケーションの間に位置するソフトウェアのコア部品です．"
 
 #. Tag: para
 #, no-c-format
