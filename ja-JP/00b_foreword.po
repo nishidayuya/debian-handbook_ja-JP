@@ -34,17 +34,17 @@ msgstr "<emphasis>基本的な考え方</emphasis> Linuxディストリビュー
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>Linux</primary><secondary>kernel</secondary>"
-msgstr ""
+msgstr "<primary>Linux</primary><secondary>カーネル</secondary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>Linux</primary><secondary>distribution</secondary>"
-msgstr ""
+msgstr "<primary>Linux</primary><secondary>ディストリビューション</secondary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>distribution</primary><secondary>Linux distribution</secondary>"
-msgstr ""
+msgstr "<primary>ディストリビューション</primary><secondary>Linuxディストリビューション</secondary>"
 
 #. Tag: para
 #, no-c-format
