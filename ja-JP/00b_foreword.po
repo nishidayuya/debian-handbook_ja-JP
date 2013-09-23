@@ -59,7 +59,8 @@ msgstr "“Linuxディストリビューション”とは完全なオペレー�
 #. Tag: para
 #, no-c-format
 msgid "Debian GNU/Linux is a “generic” Linux distribution that fits most users. The purpose of this book is to show its many aspects so you can make an informed decision when choosing."
-msgstr ""
+msgstr "Debian GNU/Linuxは多くのユーザに適合する“一般的な”Linuxディストリビューションです．"
+"The purpose of this book is to show its many aspects so you can make an informed decision when choosing."
 
 #. Tag: title
 #, no-c-format
