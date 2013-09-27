@@ -65,17 +65,17 @@ msgstr "Debian GNU/Linuxは多くのユーザに適合する“一般的な”Li
 #. Tag: title
 #, no-c-format
 msgid "Why This Book?"
-msgstr ""
+msgstr "なぜこの本か？"
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>CULTURE</emphasis> Commercial distributions"
-msgstr ""
+msgstr "商用ディストリビューションの<emphasis>文化</emphasis>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>distribution</primary><secondary>commercial distribution</secondary>"
-msgstr ""
+msgstr "<primary>ディストリビューション</primary><secondary>商用ディストリビューション</secondary>"
 
 #. Tag: para
 #, no-c-format
