@@ -82,6 +82,8 @@ msgstr "<primary>ディストリビューション</primary><secondary>商用デ
 #, no-c-format
 msgid "Most Linux distributions are backed by a for-profit company that develops them and sells them under some kind of commercial scheme. Examples include <emphasis>Ubuntu</emphasis>, mainly developed by <emphasis>Canonical Ltd.</emphasis>; <emphasis>Mandriva Linux</emphasis>, by French company <emphasis>Mandriva SA</emphasis>; and <emphasis>Suse Linux</emphasis>, maintained and made commercially available by <emphasis>Novell</emphasis>."
 msgstr ""
+"多くのLinuxディストリビューションは，それを開発したりある種の営業計画のもとで売ったりする営利企業から支援されています．"
+"Examples include <emphasis>Ubuntu</emphasis>, mainly developed by <emphasis>Canonical Ltd.</emphasis>; <emphasis>Mandriva Linux</emphasis>, by French company <emphasis>Mandriva SA</emphasis>; and <emphasis>Suse Linux</emphasis>, maintained and made commercially available by <emphasis>Novell</emphasis>."
 
 #. Tag: para
 #, no-c-format
