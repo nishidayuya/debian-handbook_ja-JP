@@ -89,6 +89,8 @@ msgstr ""
 #, no-c-format
 msgid "At the other end of the spectrum lie the likes of Debian and the Apache Software Foundation (which hosts the development for the Apache web server). Debian is above all a project in the Free Software world, implemented by volunteers working together through the Internet."
 msgstr ""
+"スペクトルのもう一端にDebianとApacheソフトウェア財団（Apacheウェブサーバのための開発をホストしている）のようなものがあります．"
+"Debianはとりわけインターネットを通して一緒に作業したボランティアによって実現された自由ソフトウェア世界のプロジェクトです．"
 
 #. Tag: para
 #, no-c-format
