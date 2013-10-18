@@ -101,6 +101,9 @@ msgstr ""
 #, no-c-format
 msgid "The purpose of this book is to help you discover this distribution. We hope to share the experience we've gathered since we joined the project as developers and contributors in 1998 (Raphaël) and 2000 (Roland). With any luck, our enthusiasm will be communicative, and maybe you'll join us sometime…"
 msgstr ""
+"この本の目的は，あなたがこのディストリビューションを発見することを助けることにあります．"
+"我々は，Raphaëlは1998年に，Rolandは2000年に我々がプロジェクトに開発者や貢献者として参加して集まった体験を共有することを望んでいます．"
+"数々の幸運とともに，我々の熱気は伝わるでしょう．そしてもしかするとあなたがときどき我々に参加するかもしれません..."
 
 #. Tag: para
 #, no-c-format
